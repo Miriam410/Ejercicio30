@@ -10,6 +10,7 @@ namespace Ejercicio30
     {
         static void Main(string[] args)
         {
+            // 30. Solicite el ingreso de una fecha al usuario y muestre sólo la hora
             string fecha;
             DateTime salidaFecha;
             bool flag=false ;
